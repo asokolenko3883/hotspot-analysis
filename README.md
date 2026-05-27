@@ -17,7 +17,7 @@ This repository is intended as a clean, non-proprietary public demo of applied d
 ## Project structure
 
 ```text
-spatial-hotspot-analysis/
+hotspot-analysis/
   data/
     sample_observations.csv
   spatial_hotspot_analysis.ipynb
